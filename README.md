@@ -40,7 +40,7 @@ I regularly document my deep learning journey:
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn]((https://www.linkedin.com/in/divyanshu1331))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshu1331) 
 - 🐦 [Twitter/X](https://twitter.com/your-handle)  
 
 ---
