@@ -4,12 +4,12 @@ I am passionate about *Artificial Intelligence* and especially *Computer Vision*
 
 I share my deep learning journey on [Medium](https://divyanshu1331.medium.com/), where I write about my **learning, experiments, and insights**. I also maintain two repositories:  
 
-- [Deep Learning Journey](https://github.com/Divyanshu1331/Deep-Learning-Journey) – blogs, code, and notebooks.  
+- [Deep Learning Journey](https://github.com/Divyanshu1331/Deep-Learning-Journey) – code, and notebooks.  
 - [CV Research Projects](https://github.com/Divyanshu1331/cv-research-projects) – implementations and experiments in computer vision.  
 
 Currently, I’m focused on strengthening my deep learning foundations, working on vision projects, and preparing for future research opportunities in AI and Computer Vision.  
 
-📫 Connect with me on [LinkedIn](www.linkedin.com/in/divyanshu1331).  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/divyanshu1331).  
 
 ---
 
