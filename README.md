@@ -12,8 +12,8 @@ I recently conducted a controlled empirical study on Vision Transformers in smal
 - Achieved ~71% accuracy on CIFAR-10 (vs ~45–55% baseline)  
 - Paper accepted at **SciForDL (ICLR 2026 Workshop)**  
 
-📄 [Paper](https://openreview.net/forum?id=BnKObGDEr6)  
-💻 [Code](https://github.com/Divyanshu1331/optimization-not-architecture-vit)
+📄 [Paper (OpenReview)](https://openreview.net/forum?id=BnKObGDEr6)  
+💻 [Code (GitHub)](https://github.com/Divyanshu1331/optimization-not-architecture-vit)  
 
 ---
 
