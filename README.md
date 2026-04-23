@@ -6,7 +6,7 @@ I work on **Computer Vision and Deep Learning**, with a focus on understanding h
 
 ## 🔬 Current Research
 
-I recently conducted a controlled empirical study on Vision Transformers in small-data regimes:
+I conducted a controlled empirical study on Vision Transformers in small-data regimes:
 
 - Showed that **optimization strategies (warmup + cosine decay)** significantly improve generalization over architectural scaling  
 - Achieved ~71% accuracy on CIFAR-10 (vs ~45–55% baseline)  
