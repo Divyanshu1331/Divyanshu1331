@@ -28,9 +28,9 @@ I conducted a controlled empirical study on Vision Transformers in small-data re
 
 ## 🧪 Selected Work
 
-- Vision Transformer experiments (from scratch, CIFAR-10)  
-- Transfer learning with ResNet50 and MobileNetV2  
-- CNN architectures (LeNet, VGG16)  
+- Vision Transformer experiments (controlled studies on CIFAR-10)  
+- Transfer learning (ResNet50, MobileNetV2) for small-data classification  
+- CNN architectures (LeNet, VGG16) with analysis of generalization behavior  
 
 ---
 
