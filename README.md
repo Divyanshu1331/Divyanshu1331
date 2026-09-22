@@ -50,7 +50,7 @@ Built from scratch, math included — not just tutorials followed:
 
 ### 📫 Contact
 
-[LinkedIn](www.linkedin.com/in/divyanshu1331) · [Medium](https://divyanshu1331.medium.com/)
+[LinkedIn](https://www.linkedin.com/in/divyanshu1331) · [Medium](https://divyanshu1331.medium.com/)
 
 ---
 
