@@ -51,9 +51,3 @@ Built from scratch, math included — not just tutorials followed:
 ### 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/divyanshu1331) · [Medium](https://divyanshu1331.medium.com/)
-
----
-
----
-
-*Focused on research-oriented work in computer vision and deep learning.*
