@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Divyanshu Gupta
+## 👋 Hi, I'm Divyanshu Gupta
 
 I work on **generative modeling and representation learning**, building toward research in **diffusion models and Transformers**. My approach is hands-on and first-principles: I re-derive and re-implement core methods from scratch before I trust myself to extend them.
 
@@ -53,30 +53,6 @@ Built from scratch, math included — not just tutorials followed:
 [LinkedIn](https://www.linkedin.com/in/divyanshu1331) · [Medium](https://divyanshu1331.medium.com/)
 
 ---
-
-# 👋 Hi, I'm Divyanshu Gupta
-
-I work on **Computer Vision and Deep Learning**, with a focus on understanding how models generalize under limited data and real-world conditions.
-
----
-
-## 🔬 Current Research
-
-I conducted a controlled empirical study on Vision Transformers in small-data regimes:
-
-- Showed that **optimization strategies (warmup + cosine decay)** significantly improve generalization over architectural scaling  
-- Achieved ~71% accuracy on CIFAR-10 (vs ~45–55% baseline)  
-- Paper accepted at **SciForDL (ICLR 2026 Workshop)**  
-
-📄 [Paper (OpenReview)](https://openreview.net/forum?id=BnKObGDEr6)  
-💻 [Code (GitHub)](https://github.com/Divyanshu1331/optimization-not-architecture-vit)  
-
----
-
-## 📫 Contact
-
-- [LinkedIn](https://www.linkedin.com/in/divyanshu1331)
-- [Medium](https://divyanshu1331.medium.com)
 
 ---
 
