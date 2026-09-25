@@ -2,13 +2,13 @@
 
 I work on **generative modeling and representation learning**, building toward research in **diffusion models and Transformers**. My approach is hands-on and first-principles: I re-derive and re-implement core methods from scratch before I trust myself to extend them.
 
-I'm currently working on a **video diffusion** research project, expanding into **CLIP, DiT, and Seedance-style models**, and preparing to apply to ML PhD programs for Fall 2027.
+I'm currently working on a **video diffusion** research project, expanding into **CLIP, DiT, and Seedance-style models**, and preparing to apply to CS PhD programs for Fall 2027.
 
 ---
 
 ### 🔬 Current Research
 
-**Independent research (solo, unsupervised):** I chose the problem, designed the empirical study, ran it, and wrote it up entirely on my own — no lab, no advisor, no co-authors.
+**Independent research:** I identified the problem, designed the empirical study, and carried it through to a published paper on my own initiative.
 
 - Conducted a controlled empirical study on Vision Transformers in small-data regimes
 - Showed optimization strategy (warmup + cosine decay) matters more than architectural scaling for generalization
@@ -22,7 +22,7 @@ I'm currently working on a **video diffusion** research project, expanding into 
 
 ### 🧭 Technical Specification
 
-Built from scratch, math included — not just tutorials followed:
+Rather than stopping at reading the papers, I implement each method from first principles to understand it end-to-end:
 
 **Foundations** ([Deep-Learning-Journey](https://github.com/Divyanshu1331/Deep-Learning-Journey) · [cv-research-projects](https://github.com/Divyanshu1331/cv-research-projects))
 `Perceptron` · `Backpropagation` · `Activation Functions` · `CNNs (LeNet-5, VGG16)` · `Vision Transformers (ViT)`
